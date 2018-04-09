@@ -1,0 +1,13 @@
+{
+    "name": "zhaolaotou/demo",
+    "description": "I want to  learn  php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhao dexu",
+            "email": "zhao_dexu27@sina.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
